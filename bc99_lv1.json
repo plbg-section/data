@@ -1,0 +1,5611 @@
+{
+    "bc99_lv1": [
+        {
+            "item": "1",
+            "FunctionalLoc": "BIC-99-0393W03",
+            "FunctionalLoc2": "BIC-99WD01",
+            "DescriptionFunctionalLoc2": "DIGITAL WEIGHT BIC(PP3)",
+            "Lv": "1"
+        },
+        {
+            "item": "2",
+            "FunctionalLoc": "BIC-99-0393W04",
+            "FunctionalLoc2": "BIC-99WD02",
+            "DescriptionFunctionalLoc2": "DIGITAL WEIGHT BIC(PP3)",
+            "Lv": "1"
+        },
+        {
+            "item": "3",
+            "FunctionalLoc": "BIC-99-0393W05",
+            "FunctionalLoc2": "BIC-99WD03",
+            "DescriptionFunctionalLoc2": "DIGITAL WEIGHT BIC(PP3)",
+            "Lv": "1"
+        },
+        {
+            "item": "4",
+            "FunctionalLoc": "BIC-99-0393W07",
+            "FunctionalLoc2": "BIC-99WD04",
+            "DescriptionFunctionalLoc2": "DIGITAL WEIGHT BIC(PP3)",
+            "Lv": "1"
+        },
+        {
+            "item": "5",
+            "FunctionalLoc": "BIC-99-0393W08",
+            "FunctionalLoc2": "BIC-99WD05",
+            "DescriptionFunctionalLoc2": "DIGITAL WEIGHT",
+            "Lv": "1"
+        },
+        {
+            "item": "6",
+            "FunctionalLoc": "BIC-99-0393W09",
+            "FunctionalLoc2": "BIC-99WD06",
+            "DescriptionFunctionalLoc2": "DIGITAL WEIGHT",
+            "Lv": "1"
+        },
+        {
+            "item": "7",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-CB01",
+            "DescriptionFunctionalLoc2": "BAGGING CONTROL CABINET LINE A",
+            "Lv": "1"
+        },
+        {
+            "item": "8",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS10G6",
+            "DescriptionFunctionalLoc2": "MOTOR FOR COIL UNWINDING RIGHT",
+            "Lv": "1"
+        },
+        {
+            "item": "9",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS11G6",
+            "DescriptionFunctionalLoc2": "MOTOR FOR MACHINE ROLLER",
+            "Lv": "1"
+        },
+        {
+            "item": "10",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS14T8",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PENDULUM EMPTY BAG",
+            "Lv": "1"
+        },
+        {
+            "item": "11",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS15T8",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PENDULUM FULL BAG",
+            "Lv": "1"
+        },
+        {
+            "item": "12",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS16T8",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM UNWINDING",
+            "Lv": "1"
+        },
+        {
+            "item": "13",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS17T8",
+            "DescriptionFunctionalLoc2": "MOTOR FOR COIL TRANSPORT",
+            "Lv": "1"
+        },
+        {
+            "item": "14",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS26C7",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BLOWER BAG OPENER SUCTION CURS",
+            "Lv": "1"
+        },
+        {
+            "item": "15",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS26E7",
+            "DescriptionFunctionalLoc2": "MOTOR FOR UNLOAD BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "16",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS26M7",
+            "DescriptionFunctionalLoc2": "MOTOR FOR MOUTH BAG COOLING",
+            "Lv": "1"
+        },
+        {
+            "item": "17",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS26P7",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROLLER ASCENT/DESCENT",
+            "Lv": "1"
+        },
+        {
+            "item": "18",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS28C6",
+            "DescriptionFunctionalLoc2": "MOTOR FOR DEDUSING",
+            "Lv": "1"
+        },
+        {
+            "item": "19",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS30C6",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HYDRAULIC PUMP LEFT",
+            "Lv": "1"
+        },
+        {
+            "item": "20",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS30E6",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HYDRAULIC PUMP RIGHT",
+            "Lv": "1"
+        },
+        {
+            "item": "21",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-MS9G6",
+            "DescriptionFunctionalLoc2": "MOTOR FOR COIL UNWINDING LEFT",
+            "Lv": "1"
+        },
+        {
+            "item": "22",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-1G221",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONTINUOS DRAW 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "23",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-1G291",
+            "DescriptionFunctionalLoc2": "GEAR FOR SPACING CONVEYOR 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "24",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-1M221",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONTINUOS DRAW 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "25",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-1M251",
+            "DescriptionFunctionalLoc2": "MOTOR FOR INTERMITTED DRAW 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "26",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-1M291",
+            "DescriptionFunctionalLoc2": "MOTOR FOR SPACING CONVEYOR 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "27",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-2G021",
+            "DescriptionFunctionalLoc2": "GEAR FOR MAIN DRIVE 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "28",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-2G041",
+            "DescriptionFunctionalLoc2": "GEAR FOR BAG FEED 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "29",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-2G091",
+            "DescriptionFunctionalLoc2": "GEAR FOR OUT FEED CONVEYOR 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "30",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-2M021",
+            "DescriptionFunctionalLoc2": "MOTOR FOR MAIN DRIVE 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "31",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-2M041",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG FEED 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "32",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-2M051",
+            "DescriptionFunctionalLoc2": "MOTOR FOR VACUUM 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "33",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-2M081",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BLOWER TOP SEAL 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "34",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-2M091",
+            "DescriptionFunctionalLoc2": "MOTOR FOR OUT FEED CONVEYOR 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "35",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-2M092",
+            "DescriptionFunctionalLoc2": "MOTOR FOR AUX. BLOWER OUTFEED CONV.",
+            "Lv": "1"
+        },
+        {
+            "item": "36",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-3M361",
+            "DescriptionFunctionalLoc2": "MOTOR FOR OUT FEED CONVEYOR 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "37",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-E002",
+            "DescriptionFunctionalLoc2": "AIR CONTROL BAGGING LINE:A(PP3) 600 W",
+            "Lv": "1"
+        },
+        {
+            "item": "38",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-EB01",
+            "DescriptionFunctionalLoc2": "BAGGING CONTROL CABINET LINE A 99A010A",
+            "Lv": "1"
+        },
+        {
+            "item": "39",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99A010A-W01",
+            "DescriptionFunctionalLoc2": "BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "40",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99BAG01",
+            "DescriptionFunctionalLoc2": "BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "41",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99WS01",
+            "DescriptionFunctionalLoc2": "WEIGHING SCALE",
+            "Lv": "1"
+        },
+        {
+            "item": "42",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "FunctionalLoc2": "BIC-99WS02",
+            "DescriptionFunctionalLoc2": "WEIGHING SCALE",
+            "Lv": "1"
+        },
+        {
+            "item": "43",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-E003",
+            "DescriptionFunctionalLoc2": "AIR CONTROL BAGGING LINE:B(PP3) 600 W",
+            "Lv": "1"
+        },
+        {
+            "item": "44",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-EB01",
+            "DescriptionFunctionalLoc2": "BAGGING CONTROL CABINET LINE B 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "45",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-G36",
+            "DescriptionFunctionalLoc2": "GEAR FOR AUXILIARY TUBE DRAW 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "46",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-G39",
+            "DescriptionFunctionalLoc2": "GEAR FOR TUBE DRAW 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "47",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-G50",
+            "DescriptionFunctionalLoc2": "GEAR FOR BAG CARRIER 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "48",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-G57",
+            "DescriptionFunctionalLoc2": "GEAR FOR BAGGING CONVEYOR 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "49",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-G58",
+            "DescriptionFunctionalLoc2": "GEAR FOR DELIVERY CONVEYOR 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "50",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-G81",
+            "DescriptionFunctionalLoc2": "GEAR FOR PINHOLD POSITION 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "51",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-G82",
+            "DescriptionFunctionalLoc2": "GEAR FOR CORNER SEAL POINT 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "52",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-G83",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONVEYOR POSITION 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "53",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M36",
+            "DescriptionFunctionalLoc2": "MOTOR FOR AUXILIARY TUBE DRAW 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "54",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M38",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BLOWER AUXILIARY TUBE DRAW",
+            "Lv": "1"
+        },
+        {
+            "item": "55",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M39",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TUBE DRAW 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "56",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M43",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BLOWER BAG MOUTH OPENING",
+            "Lv": "1"
+        },
+        {
+            "item": "57",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M50",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG CARRIER 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "58",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M57",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAGGING CONVEYOR 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "59",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M58",
+            "DescriptionFunctionalLoc2": "MOTOR FOR DELIVERY CONVEYOR 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "60",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M81",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PINHOLD POSITION 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "61",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M82",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CORNER SEAL POINT 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "62",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-M83",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONVEYOR POSITION 99A010B",
+            "Lv": "1"
+        },
+        {
+            "item": "63",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99A010B-W01",
+            "DescriptionFunctionalLoc2": "BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "64",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99BAG02",
+            "DescriptionFunctionalLoc2": "BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "65",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99WS03",
+            "DescriptionFunctionalLoc2": "WEIGHING SCALE",
+            "Lv": "1"
+        },
+        {
+            "item": "66",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "FunctionalLoc2": "BIC-99WS04",
+            "DescriptionFunctionalLoc2": "WEIGHING SCALE",
+            "Lv": "1"
+        },
+        {
+            "item": "67",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MCER1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR QUICK RELEASE CONVEYOR 1",
+            "Lv": "1"
+        },
+        {
+            "item": "68",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MCER2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR QUICK RELEASE CONVEYOR 2",
+            "Lv": "1"
+        },
+        {
+            "item": "69",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-A01",
+            "DescriptionFunctionalLoc2": "BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "70",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-CB01",
+            "DescriptionFunctionalLoc2": "BAGGING CONTROL CABINET PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "71",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GACT",
+            "DescriptionFunctionalLoc2": "GEAR FOR OPEN CLOSE TAG PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "72",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GACV",
+            "DescriptionFunctionalLoc2": "GEAR FOR OPEN CLOSE SUCKERS PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "73",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GCAR1",
+            "DescriptionFunctionalLoc2": "GEAR FOR QUICK RELEASS CONVEYOR 1 LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "74",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GCAR2",
+            "DescriptionFunctionalLoc2": "GEAR FOR QUICK RELEASS CONVEYOR 2 LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "75",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GCES",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONVEYOR BELT EVACUATION SACKS",
+            "Lv": "1"
+        },
+        {
+            "item": "76",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GDEI",
+            "DescriptionFunctionalLoc2": "GEAR FOR DISPLACEMENT INTER. STATION",
+            "Lv": "1"
+        },
+        {
+            "item": "77",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GDES",
+            "DescriptionFunctionalLoc2": "GEAR FOR UNWINDER PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "78",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GDPC",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHARRIOT DESPLACMENT LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "79",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GGOL",
+            "DescriptionFunctionalLoc2": "GEAR FOR RAPPER FAST CONVEYOR BELT 1",
+            "Lv": "1"
+        },
+        {
+            "item": "80",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GMAS",
+            "DescriptionFunctionalLoc2": "GEAR FOR EXTENT FEEDING BAGS PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "81",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GREF",
+            "DescriptionFunctionalLoc2": "GEAR FOR COOLER PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "82",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GRHSE",
+            "DescriptionFunctionalLoc2": "GEAR FOR REG. HORITZONTAL WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "83",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GRVSE",
+            "DescriptionFunctionalLoc2": "GEAR FOR REG. VERTICAL WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "84",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-GSAL",
+            "DescriptionFunctionalLoc2": "GEAR FOR FEEDING SERVO MOTOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "85",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MACT",
+            "DescriptionFunctionalLoc2": "MOTOR FOR OPEN CLOSE TAG PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "86",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MACV",
+            "DescriptionFunctionalLoc2": "MOTOR FOR OPEN CLOSE SUCKERS PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "87",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MBV",
+            "DescriptionFunctionalLoc2": "MOTOR FOR VACUUM PUMP BECKER PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "88",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MCAR1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR QUICK RELEASS CONVEYOR 1",
+            "Lv": "1"
+        },
+        {
+            "item": "89",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MCAR2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR QUICK RELEASS CONVEYOR 2",
+            "Lv": "1"
+        },
+        {
+            "item": "90",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MCES",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONVEYOR BELT EVACUATION SACKS",
+            "Lv": "1"
+        },
+        {
+            "item": "91",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MDEI",
+            "DescriptionFunctionalLoc2": "MOTOR FOR DISPLACEMENT INTER. STATION",
+            "Lv": "1"
+        },
+        {
+            "item": "92",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MDES",
+            "DescriptionFunctionalLoc2": "MOTOR FOR UNWINDER PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "93",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MDPC",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHARRIOT DESPLACMENT LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "94",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MFIL",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BLOWER FILTER PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "95",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MGOL",
+            "DescriptionFunctionalLoc2": "MOTOR FOR RAPPER FAST CONVEYOR BELT 1",
+            "Lv": "1"
+        },
+        {
+            "item": "96",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MMAS",
+            "DescriptionFunctionalLoc2": "MOTOR FOR EXTENT FEEDING BAGS PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "97",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MREF",
+            "DescriptionFunctionalLoc2": "MOTOR FOR COOLER PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "98",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MRHSE",
+            "DescriptionFunctionalLoc2": "MOTOR FOR REG. HORITZONTAL WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "99",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MRVSE",
+            "DescriptionFunctionalLoc2": "MOTOR FOR REG. VERTICAL WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "100",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MSAL",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FEEDING SERVO MOTOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "101",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MSH",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HYDRAULIC SYSTEM PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "102",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99A010C-MTUSE",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TURBINE COOLING WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "103",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99BAG03",
+            "DescriptionFunctionalLoc2": "BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "104",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99D010C-D01",
+            "DescriptionFunctionalLoc2": "FEED HOPPER FOR BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "105",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "BIC-99WS06",
+            "DescriptionFunctionalLoc2": "WEIGHING SCALE",
+            "Lv": "1"
+        },
+        {
+            "item": "106",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "FunctionalLoc2": "E9B-CA120-P06R-MA",
+            "DescriptionFunctionalLoc2": "SUPPLY PANEL FOR FFS BAGGING PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "107",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MCER1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR QUICK RELEASE CONVEYOR 1",
+            "Lv": "1"
+        },
+        {
+            "item": "108",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MCER2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR QUICK RELEASE CONVEYOR 2",
+            "Lv": "1"
+        },
+        {
+            "item": "109",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-A01",
+            "DescriptionFunctionalLoc2": "BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "110",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-CB01",
+            "DescriptionFunctionalLoc2": "BAGGING CONTROL CABINET LINE D PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "111",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GACT",
+            "DescriptionFunctionalLoc2": "GEAR FOR OPEN CLOSE TAG PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "112",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GACV",
+            "DescriptionFunctionalLoc2": "GEAR FOR OPEN CLOSE SUCKERS PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "113",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GCAR1",
+            "DescriptionFunctionalLoc2": "GEAR FOR QUICK RELEASS CONVEYOR 1 LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "114",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GCAR2",
+            "DescriptionFunctionalLoc2": "GEAR FOR QUICK RELEASS CONVEYOR 2 LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "115",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GCES",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONVEYOR BELT EVACUATION SACKS",
+            "Lv": "1"
+        },
+        {
+            "item": "116",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GDEI",
+            "DescriptionFunctionalLoc2": "GEAR FOR DISPLACEMENT INTER. STATION",
+            "Lv": "1"
+        },
+        {
+            "item": "117",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GDES",
+            "DescriptionFunctionalLoc2": "GEAR FOR UNWINDER PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "118",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GDPC",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHARRIOT DESPLACMENT LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "119",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GGOL",
+            "DescriptionFunctionalLoc2": "GEAR FOR RAPPER FAST CONVEYOR BELT 1",
+            "Lv": "1"
+        },
+        {
+            "item": "120",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GMAS",
+            "DescriptionFunctionalLoc2": "GEAR FOR EXTENT FEEDING BAGS PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "121",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GREF",
+            "DescriptionFunctionalLoc2": "GEAR FOR COOLER PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "122",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GRHSE",
+            "DescriptionFunctionalLoc2": "GEAR FOR REG. HORITZONTAL WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "123",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GRVSE",
+            "DescriptionFunctionalLoc2": "GEAR FOR REG. VERTICAL WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "124",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-GSAL",
+            "DescriptionFunctionalLoc2": "GEAR FOR FEEDING SERVO MOTOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "125",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MACT",
+            "DescriptionFunctionalLoc2": "MOTOR FOR OPEN CLOSE TAG PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "126",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MACV",
+            "DescriptionFunctionalLoc2": "MOTOR FOR OPEN CLOSE SUCKERS PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "127",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MBV",
+            "DescriptionFunctionalLoc2": "MOTOR FOR VACUUM PUMP BECKER PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "128",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MCAR1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR QUICK RELEASS CONVEYOR 1",
+            "Lv": "1"
+        },
+        {
+            "item": "129",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MCAR2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR QUICK RELEASS CONVEYOR 2",
+            "Lv": "1"
+        },
+        {
+            "item": "130",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MCES",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONVEYOR BELT EVACUATION SACKS",
+            "Lv": "1"
+        },
+        {
+            "item": "131",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MDEI",
+            "DescriptionFunctionalLoc2": "MOTOR FOR DISPLACEMENT INTER. STATION",
+            "Lv": "1"
+        },
+        {
+            "item": "132",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MDES",
+            "DescriptionFunctionalLoc2": "MOTOR FOR UNWINDER PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "133",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MDPC",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHARRIOT DESPLACMENT LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "134",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MFIL",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BLOWER FILTER PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "135",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MGOL",
+            "DescriptionFunctionalLoc2": "MOTOR FOR RAPPER FAST CONVEYOR BELT 1",
+            "Lv": "1"
+        },
+        {
+            "item": "136",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MMAS",
+            "DescriptionFunctionalLoc2": "MOTOR FOR EXTENT FEEDING BAGS PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "137",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MREF",
+            "DescriptionFunctionalLoc2": "MOTOR FOR COOLER PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "138",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MRHSE",
+            "DescriptionFunctionalLoc2": "MOTOR FOR REG. HORITZONTAL WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "139",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MRVSE",
+            "DescriptionFunctionalLoc2": "MOTOR FOR REG. VERTICAL WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "140",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MSAL",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FEEDING SERVO MOTOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "141",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MSH",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HYDRAULIC SYSTEM PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "142",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99A010D-MTUSE",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TURBINE COOLING WELDING EDGES",
+            "Lv": "1"
+        },
+        {
+            "item": "143",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99BAG04",
+            "DescriptionFunctionalLoc2": "BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "144",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99D010D-D01",
+            "DescriptionFunctionalLoc2": "FEED HOPPER FOR BAGGING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "145",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "BIC-99WS07",
+            "DescriptionFunctionalLoc2": "WEIGHING SCALE",
+            "Lv": "1"
+        },
+        {
+            "item": "146",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "FunctionalLoc2": "E9B-CA120-P05R-RC",
+            "DescriptionFunctionalLoc2": "SUPPLY PANEL FOR FFS BAGGING LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "147",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-CB01",
+            "DescriptionFunctionalLoc2": "PALLETIZING CONTROL CABINET LINE A",
+            "Lv": "1"
+        },
+        {
+            "item": "148",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020AZ01-D60",
+            "DescriptionFunctionalLoc2": "MOTOR FOR SHEET APPLICATOR",
+            "Lv": "1"
+        },
+        {
+            "item": "149",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D10G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TURNING BELT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "150",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D10M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TURNING BELT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "151",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D11G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CLAMP TURNING BELT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "152",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D11M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CLAMP TURNING BELT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "153",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D11M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR AUX. BLOWER CLAMP TURNING BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "154",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D20G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER BELT CONVEYOR 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "155",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D20M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER BELT CONVEYOR 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "156",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D22G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAY OFF TABLE 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "157",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D22M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAY OFF TABLE 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "158",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D25G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER PUSHER 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "159",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D25M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER PUSHER 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "160",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D25M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR AUXILLIARY BLOWER LAYER PUSHER",
+            "Lv": "1"
+        },
+        {
+            "item": "161",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D26G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PUSHER PLATE 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "162",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D26M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PUSHER PLATE 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "163",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D30G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR RIGHT PRESS ELEMENT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "164",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D30M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR RIGHT PRESS ELEMENT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "165",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D31G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LEFT PRESS ELEMENT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "166",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D31M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LEFT PRESS ELEMENT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "167",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D35G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR HOIST 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "168",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D35M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HOIST 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "169",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D35M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BLOWER HOIST 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "170",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D36G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROLLER CONVEYOR ON HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "171",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D36M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROLLER CONVEYOR ON HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "172",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D37G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TURNING DEVICE HOIST 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "173",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D37M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TURNING DEVICE HOIST 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "174",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D40G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR EMPTY PALLET TRANSPORT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "175",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D40M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR EMPTY PALLET TRANSPORT 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "176",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D41G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR STUB ROLLER CONVEYOR 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "177",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D41M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR STUB ROLLER CONVEYOR 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "178",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D50G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR SEPARATOR 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "179",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D50M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR SEPARATOR 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "180",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D51G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR SEPARATOR FORK 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "181",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-D51M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR SEPARATOR FORK 99A020A",
+            "Lv": "1"
+        },
+        {
+            "item": "182",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-E004",
+            "DescriptionFunctionalLoc2": "AIR CONTROL PALLETIZ LINE:A(PP3) 600 W",
+            "Lv": "1"
+        },
+        {
+            "item": "183",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-EB01",
+            "DescriptionFunctionalLoc2": "PALLETIZING CONTROL CABINET LINE A",
+            "Lv": "1"
+        },
+        {
+            "item": "184",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99A020A-H01",
+            "DescriptionFunctionalLoc2": "PALLETIZER",
+            "Lv": "1"
+        },
+        {
+            "item": "185",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "FunctionalLoc2": "BIC-99PAL01",
+            "DescriptionFunctionalLoc2": "PALLETIZER",
+            "Lv": "1"
+        },
+        {
+            "item": "186",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-CB01",
+            "DescriptionFunctionalLoc2": "PALLETIZING CONTROL CABINET LINE B",
+            "Lv": "1"
+        },
+        {
+            "item": "187",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020BZ01-D60",
+            "DescriptionFunctionalLoc2": "MOTOR FOR SHEET APPLICATOR",
+            "Lv": "1"
+        },
+        {
+            "item": "188",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99H010B-D408M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG FLATTENER",
+            "Lv": "1"
+        },
+        {
+            "item": "189",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D10G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TURNING BELT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "190",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D10M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TURNING BELT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "191",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D11G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CLAMP TURNING BELT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "192",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D11M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CLAMP TURNING BELT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "193",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D11M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR AUX. BLOWER TURNING BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "194",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D20G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER BELT CONVEYOR 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "195",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D20M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER BELT CONVEYOR 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "196",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D22G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAY OFF TABLE 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "197",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D22M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAY OFF TABLE 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "198",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D25G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER PUSHER 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "199",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D25M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER PUSHER 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "200",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D25M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR AUXILLIARY BLOWER LAYER PUSHER",
+            "Lv": "1"
+        },
+        {
+            "item": "201",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D26G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PUSHER PLATE 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "202",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D26M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PUSHER PLATE 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "203",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D30G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR RIGHT PRESS ELEMENT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "204",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D30M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR RIGHT PRESS ELEMENT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "205",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D31G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LEFT PRESS ELEMENT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "206",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D31M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LEFT PRESS ELEMENT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "207",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D35G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR HOIST 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "208",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D35M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HOIST 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "209",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D35M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR AUX. BLOWER HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "210",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D36G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROLLER CONVEYOR ON HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "211",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D36M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROLLER CONVEYOR ON HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "212",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D37G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TURNING DEVICE HOIST 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "213",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D37M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TURNING DEVICE HOIST 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "214",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D40G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR EMPTY PALLET TRANSPORT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "215",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D40M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR EMPTY PALLET TRANSPORT 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "216",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D41G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR STUB ROLLER CONVEYOR 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "217",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D41M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR STUB ROLLER CONVEYOR 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "218",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D50G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR SEPARATOR 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "219",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D50M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR SEPARATOR 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "220",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D51G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR SEPARATOR FORK 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "221",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-D51M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR SEPARATOR FORK 99A020B",
+            "Lv": "1"
+        },
+        {
+            "item": "222",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-E005",
+            "DescriptionFunctionalLoc2": "AIR CONTROL PALLETIZ LINE:B(PP3) 600 W",
+            "Lv": "1"
+        },
+        {
+            "item": "223",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-EB01",
+            "DescriptionFunctionalLoc2": "PALLETIZING CONTROL CABINET LINE B",
+            "Lv": "1"
+        },
+        {
+            "item": "224",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-H01",
+            "DescriptionFunctionalLoc2": "PALLETIZER",
+            "Lv": "1"
+        },
+        {
+            "item": "225",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99A020B-METAL",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR LIINE B",
+            "Lv": "1"
+        },
+        {
+            "item": "226",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "FunctionalLoc2": "BIC-99PAL02",
+            "DescriptionFunctionalLoc2": "PALLETIZER",
+            "Lv": "1"
+        },
+        {
+            "item": "227",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-CB01",
+            "DescriptionFunctionalLoc2": "PALLETIZING CONTROL CABINET PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "228",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D012G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TWIN BELT LEFT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "229",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D012G2",
+            "DescriptionFunctionalLoc2": "GEAR FOR TWIN BELT RIGHT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "230",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D012M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TWIN BELT LEFT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "231",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D012M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TWIN BELT RIGHT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "232",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D018G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER FORMING BELT CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "233",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D018M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER FORMING BELT CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "234",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D023G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER PUSHING UNIT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "235",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D023M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER PUSHING UNIT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "236",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D024G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PUSHER PLATE PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "237",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D024M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PUSHER PLATE PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "238",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D027G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER STACKING TABLE PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "239",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D027M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER STACKING TABLE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "240",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D030G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PRESS ELEMENT LEFT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "241",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D030M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PRESS ELEMENT LEFT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "242",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D031G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PRESS ELEMENT RIGHT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "243",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D031M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PRESS ELEMENT RIGHT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "244",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D035G1",
+            "DescriptionFunctionalLoc2": "GAER FOR HOIST PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "245",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D035M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HOIST PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "246",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D050G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET PUSHER HOIST PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "247",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D050M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET PUSHER HOIST PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "248",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D055G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET SEPARATOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "249",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D055M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET SEPARATOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "250",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D056G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET SEPARATOR FORK LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "251",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D056M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET SEPARATOR FORK LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "252",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-D058M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR SEPARATOR TIP OVER PROTECTION",
+            "Lv": "1"
+        },
+        {
+            "item": "253",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99A020C-H01",
+            "DescriptionFunctionalLoc2": "PALLETIZER",
+            "Lv": "1"
+        },
+        {
+            "item": "254",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H010C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H010C",
+            "Lv": "1"
+        },
+        {
+            "item": "255",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H011C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT  FOR 99H011C",
+            "Lv": "1"
+        },
+        {
+            "item": "256",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H012C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H012C",
+            "Lv": "1"
+        },
+        {
+            "item": "257",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H014C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H014C",
+            "Lv": "1"
+        },
+        {
+            "item": "258",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H015C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H015C",
+            "Lv": "1"
+        },
+        {
+            "item": "259",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H016C-D400G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FALT BELT CONVEYOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "260",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H016C-D400M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONVEYOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "261",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H016C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H016C",
+            "Lv": "1"
+        },
+        {
+            "item": "262",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H017C-D000M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG GUIDE PLATE LEFT LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "263",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H017C-D000M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG GUIDE PLATE RIGHT LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "264",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H017C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H017C",
+            "Lv": "1"
+        },
+        {
+            "item": "265",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H018C-D001G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TIMING BELT CONVEYOR 1 LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "266",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H018C-D001M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TIMING BELT CONVEYOR 1 LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "267",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H018C-D005G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR BAG FLATTENING CONVEYOR LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "268",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H018C-D005M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG FLATTENING CONVEYOR LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "269",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H018C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H018C",
+            "Lv": "1"
+        },
+        {
+            "item": "270",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H019C-D036G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR HOIST ROLLER CONVEYOR LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "271",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H019C-D036M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HOIST ROLLER CONVEYOR LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "272",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H019C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H019C",
+            "Lv": "1"
+        },
+        {
+            "item": "273",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H020C-D100G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROLLER CONVEYOR AFTER HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "274",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H020C-D100M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROLLER CONVEYOR AFTER HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "275",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H020C-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H020C",
+            "Lv": "1"
+        },
+        {
+            "item": "276",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H021C-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H021C",
+            "Lv": "1"
+        },
+        {
+            "item": "277",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H022C-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H022C",
+            "Lv": "1"
+        },
+        {
+            "item": "278",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H023C-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H023C",
+            "Lv": "1"
+        },
+        {
+            "item": "279",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H024C-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H024C",
+            "Lv": "1"
+        },
+        {
+            "item": "280",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99H025C-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H025C",
+            "Lv": "1"
+        },
+        {
+            "item": "281",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99PAL03",
+            "DescriptionFunctionalLoc2": "PALLETIZER",
+            "Lv": "1"
+        },
+        {
+            "item": "282",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99S010C-D406G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FALT BELT CONV. METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "283",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99S010C-D406M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONV. METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "284",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99S011C-D401G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FALT BELT CONVEYOR BAG PUSHER",
+            "Lv": "1"
+        },
+        {
+            "item": "285",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99S011C-D401M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONVEYOR BAG PUSHER",
+            "Lv": "1"
+        },
+        {
+            "item": "286",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99S011C-D402G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR BAG PUSHER PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "287",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99S011C-D402M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG PUSHER PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "288",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99S011C-D403G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FALT BELT CONV. BAG DISCHARGE",
+            "Lv": "1"
+        },
+        {
+            "item": "289",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99S011C-D403M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONV. BAG DISCHARGE",
+            "Lv": "1"
+        },
+        {
+            "item": "290",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99W010C-W01",
+            "DescriptionFunctionalLoc2": "WEIGHING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "291",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99W011C-D404G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FALT BELT CONV. CHECK WEIGHER",
+            "Lv": "1"
+        },
+        {
+            "item": "292",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99W011C-D404M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONV. CHECK WEIGHER",
+            "Lv": "1"
+        },
+        {
+            "item": "293",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99W011C-W01",
+            "DescriptionFunctionalLoc2": "CHECK WEIGHER",
+            "Lv": "1"
+        },
+        {
+            "item": "294",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "BIC-99WO03",
+            "DescriptionFunctionalLoc2": "WEIGHT CHECKER",
+            "Lv": "1"
+        },
+        {
+            "item": "295",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "FunctionalLoc2": "E9B-CA120-P06R-PA",
+            "DescriptionFunctionalLoc2": "SUPPLY PANEL FOR PALLETTIZER PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "296",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D050M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET PUSHER HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "297",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D055M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET SEPARATOR",
+            "Lv": "1"
+        },
+        {
+            "item": "298",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H017D-D000M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG GUIDE PLATE LEFT",
+            "Lv": "1"
+        },
+        {
+            "item": "299",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H017D-D000M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG GUIDE PLATE RIGHT",
+            "Lv": "1"
+        },
+        {
+            "item": "300",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H019D-D036M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HOIST ROLLER CONV.",
+            "Lv": "1"
+        },
+        {
+            "item": "301",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A017D-D000M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG GUIDE PLATE LEFT LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "302",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A017D-D000M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG GUIDE PLATE RIGHT LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "303",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-CB01",
+            "DescriptionFunctionalLoc2": "PALLETIZING CONTROL CABINET LINE D PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "304",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D012G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TWIN BELT LEFT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "305",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D012G2",
+            "DescriptionFunctionalLoc2": "GEAR FOR TWIN BELT RIGHT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "306",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D012M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TWIN BELT LEFT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "307",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D012M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TWIN BELT RIGHT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "308",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D018G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER FORMING BELT CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "309",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D018M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER FORMING BELT CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "310",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D023G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER PUSHING UNIT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "311",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D023M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER PUSHING UNIT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "312",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D024G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PUSHER PLATE PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "313",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D024M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PUSHER PLATE PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "314",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D027G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR LAYER STACKING TABLE PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "315",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D027M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LAYER STACKING TABLE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "316",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D030G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PRESS ELEMENT LEFT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "317",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D030M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PRESS ELEMENT LEFT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "318",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D031G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PRESS ELEMENT RIGHT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "319",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D031M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PRESS ELEMENT RIGHT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "320",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D035G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR HOIST PPE PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "321",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D035M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HOIST PPE PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "322",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D056G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET SEPARATOR FORK LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "323",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D056M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET SEPARATOR FORK LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "324",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-D058M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET SEP. TIP OVER PROTECT.",
+            "Lv": "1"
+        },
+        {
+            "item": "325",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99A020D-H01",
+            "DescriptionFunctionalLoc2": "PALLETIZER",
+            "Lv": "1"
+        },
+        {
+            "item": "326",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H010D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H010D",
+            "Lv": "1"
+        },
+        {
+            "item": "327",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H011D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H011D",
+            "Lv": "1"
+        },
+        {
+            "item": "328",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H012D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H012D",
+            "Lv": "1"
+        },
+        {
+            "item": "329",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H013D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H013D",
+            "Lv": "1"
+        },
+        {
+            "item": "330",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H014D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H014D",
+            "Lv": "1"
+        },
+        {
+            "item": "331",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H015D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H015D",
+            "Lv": "1"
+        },
+        {
+            "item": "332",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H016D-D400G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FALT BELT CONVEYOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "333",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H016D-D400M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONVEYOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "334",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H016D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H016D",
+            "Lv": "1"
+        },
+        {
+            "item": "335",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H017D-D036G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR HOIST ROLLER CONVEYOR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "336",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H017D-D036M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HOIST ROLLER CONVEYOR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "337",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H017D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H017D",
+            "Lv": "1"
+        },
+        {
+            "item": "338",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H018D-D001G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TIMING BELT CONVEYOR 1  LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "339",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H018D-D001M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TIMING BELT CONVEYOR 1  LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "340",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H018D-D005G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR BAG FLATTENING CONVEYOR  LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "341",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H018D-D005M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG FLATTENING CONVEYOR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "342",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H018D-D050G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET PUSHER HOIST PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "343",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H018D-D050M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET PUSHER HOIST PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "344",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H018D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H018D",
+            "Lv": "1"
+        },
+        {
+            "item": "345",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H019D-D055G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET SEPARATOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "346",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H019D-D055M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET SEPARATOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "347",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H019D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H019D",
+            "Lv": "1"
+        },
+        {
+            "item": "348",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H020D-D100G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROLLER CONVEYOR AFTER HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "349",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H020D-D100M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROLLER CONVEYOR AFTER HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "350",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H020D-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT FOR 99H020D",
+            "Lv": "1"
+        },
+        {
+            "item": "351",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H021D-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H021D",
+            "Lv": "1"
+        },
+        {
+            "item": "352",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H022D-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H022D",
+            "Lv": "1"
+        },
+        {
+            "item": "353",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H023D-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H023D",
+            "Lv": "1"
+        },
+        {
+            "item": "354",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H024D-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H024D",
+            "Lv": "1"
+        },
+        {
+            "item": "355",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99H025D-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR FOR 99H025D",
+            "Lv": "1"
+        },
+        {
+            "item": "356",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99PAL04",
+            "DescriptionFunctionalLoc2": "PALLETIZER",
+            "Lv": "1"
+        },
+        {
+            "item": "357",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99S010D-D406G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FALT BELT CONV. METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "358",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99S010D-D406M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONV. METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "359",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99S011D-D401G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FALT BELT CONVEYOR BAG PUSHER",
+            "Lv": "1"
+        },
+        {
+            "item": "360",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99S011D-D401M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONVEYOR BAG PUSHER",
+            "Lv": "1"
+        },
+        {
+            "item": "361",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99S011D-D402G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR BAG PUSHER PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "362",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99S011D-D402M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG PUSHER PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "363",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99S011D-D403G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FALT BELT CONV. BAG DISCHARGE",
+            "Lv": "1"
+        },
+        {
+            "item": "364",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99S011D-D403M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONV. BAG DISCHARGE",
+            "Lv": "1"
+        },
+        {
+            "item": "365",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99W010D-W01",
+            "DescriptionFunctionalLoc2": "WEIGHING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "366",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99W011D-D404M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FALT BELT CONV. CHECK WEIGHER",
+            "Lv": "1"
+        },
+        {
+            "item": "367",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99W011D-W01",
+            "DescriptionFunctionalLoc2": "CHECK WEIGHER",
+            "Lv": "1"
+        },
+        {
+            "item": "368",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "BIC-99WO04",
+            "DescriptionFunctionalLoc2": "WEIGHT CHECKER",
+            "Lv": "1"
+        },
+        {
+            "item": "369",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "FunctionalLoc2": "E9B-CA120-P05R-TA",
+            "DescriptionFunctionalLoc2": "SUPPLY PANEL FOR PALLETTIZER LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "370",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-CB01",
+            "DescriptionFunctionalLoc2": "STRETCHPAC CONTROL CABINET LINE A",
+            "Lv": "1"
+        },
+        {
+            "item": "371",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D90G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM SLED 99A030A",
+            "Lv": "1"
+        },
+        {
+            "item": "372",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D90M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SLED 99A030A",
+            "Lv": "1"
+        },
+        {
+            "item": "373",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D91G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TOP SHEET HOLDER 99A030A",
+            "Lv": "1"
+        },
+        {
+            "item": "374",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D91M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TOP SHEET HOLDER 99A030A",
+            "Lv": "1"
+        },
+        {
+            "item": "375",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D92G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PRE STRETCH 99A030A",
+            "Lv": "1"
+        },
+        {
+            "item": "376",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D92M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PRE STRETCH 99A030A",
+            "Lv": "1"
+        },
+        {
+            "item": "377",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D93G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR WRAPPER TURNTABLE 99A030A",
+            "Lv": "1"
+        },
+        {
+            "item": "378",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D93M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR WRAPPER TURNTABLE 99A030A",
+            "Lv": "1"
+        },
+        {
+            "item": "379",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D94G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROL. COVY. WRAPPER TURNTABLE",
+            "Lv": "1"
+        },
+        {
+            "item": "380",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-D94M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROL. COVY. WRAPPER TURNTABLE",
+            "Lv": "1"
+        },
+        {
+            "item": "381",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-E006",
+            "DescriptionFunctionalLoc2": "AIR CONTROL STRETCH PACK LINE:A(PP3)600W",
+            "Lv": "1"
+        },
+        {
+            "item": "382",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-EB01",
+            "DescriptionFunctionalLoc2": "STRETCHPAC CONTROL CABINET LINE A",
+            "Lv": "1"
+        },
+        {
+            "item": "383",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99A030A-H01",
+            "DescriptionFunctionalLoc2": "STRETCH FILM WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "384",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "FunctionalLoc2": "BIC-99WRAP01",
+            "DescriptionFunctionalLoc2": "WRAPPING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "385",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-CONTRL",
+            "DescriptionFunctionalLoc2": "CONTROL",
+            "Lv": "1"
+        },
+        {
+            "item": "386",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D90G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM SLED 99A030B",
+            "Lv": "1"
+        },
+        {
+            "item": "387",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D90M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SLED 99A030B",
+            "Lv": "1"
+        },
+        {
+            "item": "388",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D91G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TOP SHEET HOLDER 99A030B",
+            "Lv": "1"
+        },
+        {
+            "item": "389",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D91M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TOP SHEET HOLDER 99A030B",
+            "Lv": "1"
+        },
+        {
+            "item": "390",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D92G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PRE STRETCH 99A030B",
+            "Lv": "1"
+        },
+        {
+            "item": "391",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D92M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PRE STRETCH 99A030B",
+            "Lv": "1"
+        },
+        {
+            "item": "392",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D93G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR WRAPPER TURNTABLE 99A030B",
+            "Lv": "1"
+        },
+        {
+            "item": "393",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D93M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR WRAPPER TURNTABLE 99A030B",
+            "Lv": "1"
+        },
+        {
+            "item": "394",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D94G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROL. COVY. WRAPPER TURNTABLE",
+            "Lv": "1"
+        },
+        {
+            "item": "395",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-D94M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROL. COVY. WRAPPER TURNTABLE",
+            "Lv": "1"
+        },
+        {
+            "item": "396",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-E007",
+            "DescriptionFunctionalLoc2": "AIR CONTROL STRETCH PACK LINE:B(PP3)600W",
+            "Lv": "1"
+        },
+        {
+            "item": "397",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-EB01",
+            "DescriptionFunctionalLoc2": "STRETCHPAC CONTROL CABINET LINE B",
+            "Lv": "1"
+        },
+        {
+            "item": "398",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99A030B-H01",
+            "DescriptionFunctionalLoc2": "STRETCH FILM WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "399",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "FunctionalLoc2": "BIC-99WRAP02",
+            "DescriptionFunctionalLoc2": "WRAPPING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "400",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-A01",
+            "DescriptionFunctionalLoc2": "STRETCH FILM WRAPPER FOR PALLETS",
+            "Lv": "1"
+        },
+        {
+            "item": "401",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-CB01",
+            "DescriptionFunctionalLoc2": "STRETCH HOOD MECHINE PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "402",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D600G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR HOIST CAR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "403",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D600M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HOIST CAR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "404",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D602G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR STRETCH SLEDS RIGHT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "405",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D602M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR STRETCH SLEDS RIGHT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "406",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D603G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CRIMPING RIGHT 1 PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "407",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D603G2",
+            "DescriptionFunctionalLoc2": "GEAR FOR CRIMPING RIGHT 2 PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "408",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D603M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CRIMPING RIGHT 1 PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "409",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D603M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CRIMPING RIGHT 2 PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "410",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D611G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR STRETCH CARRIAGE LEFT LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "411",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D611M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR STRETCH CARRIAGE LEFT LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "412",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D612G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR STRETCH SLEDS LEFT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "413",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D612M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR STRETCH SLEDS LEFT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "414",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D613G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CRIMPING LEFT 1 PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "415",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D613G2",
+            "DescriptionFunctionalLoc2": "GEAR FOR CRIMPING LEFT 2 PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "416",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D613M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CRIMPING LEFT 1 PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "417",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D613M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CRIMPING LEFT 2 PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "418",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D650G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM ROLL DRIVE FILM 1 LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "419",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D650M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM ROLL DRIVE FILM 1 LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "420",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D705G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM TRANSPORT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "421",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D705M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM TRANSPORT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "422",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D707M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP./TRANS. SIDE 1",
+            "Lv": "1"
+        },
+        {
+            "item": "423",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D707M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP./TRANS. SIDE 2",
+            "Lv": "1"
+        },
+        {
+            "item": "424",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D708M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP. OPPS. SIDE 1",
+            "Lv": "1"
+        },
+        {
+            "item": "425",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D708M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP. OPPS. SIDE 2",
+            "Lv": "1"
+        },
+        {
+            "item": "426",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D710G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM SUCT. GRIPPER TRAVEL DRIVE",
+            "Lv": "1"
+        },
+        {
+            "item": "427",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99A030C-D710M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP. TRAVEL DRIVE",
+            "Lv": "1"
+        },
+        {
+            "item": "428",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H021C-D799G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "429",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H021C-D799M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "430",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H022C-D800G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET CENTRING DEVIE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "431",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H022C-D800M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET CENTRING DEVIE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "432",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H022C-D801G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONVEYOR BEFORE STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "433",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H022C-D801M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONVEYOR BEFORE STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "434",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H024C-D802G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONVEYOR UNDER STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "435",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H024C-D802M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONVEYOR UNDER STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "436",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H025C-D804G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONVEYOR AFTER STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "437",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H025C-D804M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONVEYOR AFTER STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "438",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H026C-D805G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "439",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H026C-D805M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "440",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H027C-D806G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "441",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H027C-D806M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "442",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H028C-D807G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "443",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H028C-D807M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "444",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H029C-D808G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "445",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99H029C-D808M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "446",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "BIC-99HOOD01",
+            "DescriptionFunctionalLoc2": "STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "447",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "FunctionalLoc2": "E9B-CA120-P06R-MC",
+            "DescriptionFunctionalLoc2": "SUPPLY PANEL FOR STRETCHHOOD PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "448",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-A01",
+            "DescriptionFunctionalLoc2": "STRETCH FILM WRAPPER FOR PALLETS",
+            "Lv": "1"
+        },
+        {
+            "item": "449",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-CB01",
+            "DescriptionFunctionalLoc2": "STRETCH HOOD MECHINE LINE B CB01",
+            "Lv": "1"
+        },
+        {
+            "item": "450",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D600G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR HOIST CAR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "451",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D600M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR HOIST CAR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "452",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D602G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR STRETCH SLEDS RIGHT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "453",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D602M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR STRETCH SLEDS RIGHT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "454",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D603G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CRIMPING RIGHT 1 PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "455",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D603G2",
+            "DescriptionFunctionalLoc2": "GEAR FOR CRIMPING RIGHT 2 PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "456",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D603M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CRIMPING RIGHT 1 PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "457",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D603M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CRIMPING RIGHT 2 PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "458",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D611G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR STRETCH CARRIAGE LEFT LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "459",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D611M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR STRETCH CARRIAGE LEFT LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "460",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D612G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR STRETCH SLEDS LEFT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "461",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D612M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR STRETCH SLEDS LEFT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "462",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D613G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CRIMPING LEFT 1 PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "463",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D613G2",
+            "DescriptionFunctionalLoc2": "GEAR FOR CRIMPING LEFT 2 PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "464",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D613M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CRIMPING LEFT 1 PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "465",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D613M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CRIMPING LEFT 2 PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "466",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D650G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM ROLL DRIVE FILM 1 LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "467",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D650M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM ROLL DRIVE FILM 1 LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "468",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D705G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM TRANSPORT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "469",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D705M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM TRANSPORT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "470",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D707M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP./TRANS. SIDE 1",
+            "Lv": "1"
+        },
+        {
+            "item": "471",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D707M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP./TRANS. SIDE 2",
+            "Lv": "1"
+        },
+        {
+            "item": "472",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D708M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP. OPPS. SIDE 1",
+            "Lv": "1"
+        },
+        {
+            "item": "473",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D708M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP. OPPS. SIDE 2",
+            "Lv": "1"
+        },
+        {
+            "item": "474",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D710G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM SUCT. GRIPPER TRAVEL DRIVE",
+            "Lv": "1"
+        },
+        {
+            "item": "475",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D710M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP. TRAVEL DRIVE",
+            "Lv": "1"
+        },
+        {
+            "item": "476",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D711G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM SUCT. GRIP. CROSS ADJ. FT",
+            "Lv": "1"
+        },
+        {
+            "item": "477",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D711M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP. CROSS ADJ. FT",
+            "Lv": "1"
+        },
+        {
+            "item": "478",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D712G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FILM SUCT. GRIP. CROSS ADJ. OS",
+            "Lv": "1"
+        },
+        {
+            "item": "479",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99A030D-D712M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FILM SUCT. GRIP. CROSS ADJ. OS",
+            "Lv": "1"
+        },
+        {
+            "item": "480",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H021D-D799G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "481",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H021D-D799M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "482",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H022D-D800G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET CENTRING DEVIE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "483",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H022D-D800M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET CENTRING DEVIE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "484",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H022D-D801G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONVEYOR BEFORE STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "485",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H022D-D801M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONVEYOR BEFORE STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "486",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H024D-D802G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONVEYOR UNDER STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "487",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H024D-D802M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONVEYOR UNDER STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "488",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H025D-D804G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CONVEYOR AFTER STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "489",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H025D-D804M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CONVEYOR AFTER STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "490",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H026D-D805G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "491",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H026D-D805M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "492",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H027D-D806G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "493",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H027D-D806M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "494",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H028D-D807G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "495",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H028D-D807M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "496",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H029D-D808G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET CONVEYOR PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "497",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99H029D-D808M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET CONVEYOR LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "498",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "BIC-99HOOD02",
+            "DescriptionFunctionalLoc2": "STRETCH HOOD",
+            "Lv": "1"
+        },
+        {
+            "item": "499",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "FunctionalLoc2": "E9B-CA120-P05R-RA",
+            "DescriptionFunctionalLoc2": "SUPPLY PANEL FOR STRETCHHOOD LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "500",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-CB01",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR CONTROL CABINET",
+            "Lv": "1"
+        },
+        {
+            "item": "501",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T102M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 2",
+            "Lv": "1"
+        },
+        {
+            "item": "502",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T103M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 3",
+            "Lv": "1"
+        },
+        {
+            "item": "503",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T104M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 4",
+            "Lv": "1"
+        },
+        {
+            "item": "504",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T105M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 5",
+            "Lv": "1"
+        },
+        {
+            "item": "505",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T106M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 6",
+            "Lv": "1"
+        },
+        {
+            "item": "506",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T107M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 7",
+            "Lv": "1"
+        },
+        {
+            "item": "507",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T108M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 8",
+            "Lv": "1"
+        },
+        {
+            "item": "508",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T109M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TURNING DEVICE",
+            "Lv": "1"
+        },
+        {
+            "item": "509",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T110M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 9",
+            "Lv": "1"
+        },
+        {
+            "item": "510",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T111M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 10",
+            "Lv": "1"
+        },
+        {
+            "item": "511",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T112M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 11",
+            "Lv": "1"
+        },
+        {
+            "item": "512",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T113M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LIFTING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "513",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T113M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR AUXILLIARY BLOWER LIFTING",
+            "Lv": "1"
+        },
+        {
+            "item": "514",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T114M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 12",
+            "Lv": "1"
+        },
+        {
+            "item": "515",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T115M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 13",
+            "Lv": "1"
+        },
+        {
+            "item": "516",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T116M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 14",
+            "Lv": "1"
+        },
+        {
+            "item": "517",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T117M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 15",
+            "Lv": "1"
+        },
+        {
+            "item": "518",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T118M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TABLE HYDRAULIC PUMP",
+            "Lv": "1"
+        },
+        {
+            "item": "519",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-EB01",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR CONTROL CABINET 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "520",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G101",
+            "DescriptionFunctionalLoc2": "GEAR FOR UP-DOWN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "521",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G102",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "522",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G103",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "523",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G104",
+            "DescriptionFunctionalLoc2": "GEAR FOR UP-DOWN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "524",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G105",
+            "DescriptionFunctionalLoc2": "GEAR FOR UP-DOWN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "525",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G106",
+            "DescriptionFunctionalLoc2": "GEAR FOR EMERGENCY CHAIN CONVEYOR.",
+            "Lv": "1"
+        },
+        {
+            "item": "526",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G107",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "527",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G108",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "528",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G109",
+            "DescriptionFunctionalLoc2": "GEAR FOR TURNTABLE CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "529",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G110",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "530",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G111",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "531",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G112",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "532",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G113",
+            "DescriptionFunctionalLoc2": "GEAR FOR LIFTER",
+            "Lv": "1"
+        },
+        {
+            "item": "533",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G114",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "534",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G115",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "535",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G116",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "536",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-G117",
+            "DescriptionFunctionalLoc2": "GEAR FOR CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "537",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T101",
+            "DescriptionFunctionalLoc2": "UP-DOWN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "538",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T101-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 1 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "539",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T102",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "540",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T102-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 2 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "541",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T103",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "542",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T103-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 3 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "543",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T104",
+            "DescriptionFunctionalLoc2": "UP-DOWN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "544",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T104-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 4 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "545",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T105",
+            "DescriptionFunctionalLoc2": "UP-DOWN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "546",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T105-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 5 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "547",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T106",
+            "DescriptionFunctionalLoc2": "EMERGENCY CHAIN CONVEYOR.",
+            "Lv": "1"
+        },
+        {
+            "item": "548",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T106-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 6 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "549",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T107",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "550",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T107-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 7 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "551",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T108",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "552",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T108-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 8 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "553",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T109",
+            "DescriptionFunctionalLoc2": "TURNTABLE CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "554",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T109-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TURNING DEVICE 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "555",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T110",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "556",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T110-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 9 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "557",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T111",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "558",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T111-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 10 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "559",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T112",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "560",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T112-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 11 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "561",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T113",
+            "DescriptionFunctionalLoc2": "LIFTER",
+            "Lv": "1"
+        },
+        {
+            "item": "562",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T113-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR LIFTING MACHINE 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "563",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T113-M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR AUX. BLOWER LIFTING",
+            "Lv": "1"
+        },
+        {
+            "item": "564",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T114",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "565",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T114-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 12 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "566",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T115",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "567",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T115-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 13 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "568",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T116",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "569",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T116-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 14 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "570",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T117",
+            "DescriptionFunctionalLoc2": "CHAIN CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "571",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T117-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CHAIN CONVEYOR 15 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "572",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T118-M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TABLE HYDRAULIC PUMP 99A040",
+            "Lv": "1"
+        },
+        {
+            "item": "573",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99A040-T118-P1",
+            "DescriptionFunctionalLoc2": "PUMP HYDRAULIC",
+            "Lv": "1"
+        },
+        {
+            "item": "574",
+            "FunctionalLoc": "BIC-99-99A040",
+            "FunctionalLoc2": "BIC-99LIFT01",
+            "DescriptionFunctionalLoc2": "CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "575",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99A040C-CB01",
+            "DescriptionFunctionalLoc2": "DEDUSTER CONTROL CABINET UNIT CB01",
+            "Lv": "1"
+        },
+        {
+            "item": "576",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99A040C-S01",
+            "DescriptionFunctionalLoc2": "DE DUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "577",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99AF40C-F01",
+            "DescriptionFunctionalLoc2": "BREATHER FILTER",
+            "Lv": "1"
+        },
+        {
+            "item": "578",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99AF60C-AF01",
+            "DescriptionFunctionalLoc2": "FILTER FOR DEDUSTING UNIT",
+            "Lv": "1"
+        },
+        {
+            "item": "579",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99AK60C-K01",
+            "DescriptionFunctionalLoc2": "BLOWER FOR DEDUSTING UNIT",
+            "Lv": "1"
+        },
+        {
+            "item": "580",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99D040C-D01",
+            "DescriptionFunctionalLoc2": "FEEDER HOPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "581",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99DDUS03",
+            "DescriptionFunctionalLoc2": "DEDUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "582",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99F040C-F01",
+            "DescriptionFunctionalLoc2": "INLET FILTER",
+            "Lv": "1"
+        },
+        {
+            "item": "583",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99F050C-F01",
+            "DescriptionFunctionalLoc2": "DUST COLLECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "584",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99H040C-G01",
+            "DescriptionFunctionalLoc2": "GEAR FOR FEED PRODUCT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "585",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99H040C-H01",
+            "DescriptionFunctionalLoc2": "ROTARY VALVE",
+            "Lv": "1"
+        },
+        {
+            "item": "586",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99H040C-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FEED PRODUCT PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "587",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99H050C-G01",
+            "DescriptionFunctionalLoc2": "GEAR FOR FEED FINE FLUFF PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "588",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99H050C-H01",
+            "DescriptionFunctionalLoc2": "DUST DISCHARGE VALVE",
+            "Lv": "1"
+        },
+        {
+            "item": "589",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99H050C-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FEED FINE FLUFF PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "590",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99K040C-K01",
+            "DescriptionFunctionalLoc2": "WASH AIR FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "591",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99K040C-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR WASH AIR FAN PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "592",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99K050C-K01",
+            "DescriptionFunctionalLoc2": "EXHAUST AIR FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "593",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-99K050C-M01",
+            "DescriptionFunctionalLoc2": "MOTOR EXHAUST FAN PPE LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "594",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-PDI991101",
+            "DescriptionFunctionalLoc2": "Inlet filter (99F040C)",
+            "Lv": "1"
+        },
+        {
+            "item": "595",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-PDI991102",
+            "DescriptionFunctionalLoc2": "Breather filter (99AF40C)",
+            "Lv": "1"
+        },
+        {
+            "item": "596",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-PDI991103",
+            "DescriptionFunctionalLoc2": "Feeder hopper (99A040C)",
+            "Lv": "1"
+        },
+        {
+            "item": "597",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "BIC-PDI991104",
+            "DescriptionFunctionalLoc2": "Dust collector (99F050C)",
+            "Lv": "1"
+        },
+        {
+            "item": "598",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "FunctionalLoc2": "E9B-CA120-P06R-RA",
+            "DescriptionFunctionalLoc2": "SUPPLY PANEL FOR DEDUSTER UNIT LINE C",
+            "Lv": "1"
+        },
+        {
+            "item": "599",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99A040D-CB01",
+            "DescriptionFunctionalLoc2": "DEDUSTER CONTROL CABINET 99W040D",
+            "Lv": "1"
+        },
+        {
+            "item": "600",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99A040D-S01",
+            "DescriptionFunctionalLoc2": "DE DUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "601",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99AF40D-F01",
+            "DescriptionFunctionalLoc2": "BREATHER FILTER",
+            "Lv": "1"
+        },
+        {
+            "item": "602",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99AF60D-AF01",
+            "DescriptionFunctionalLoc2": "FILTER FOR DEDUSTING UNIT",
+            "Lv": "1"
+        },
+        {
+            "item": "603",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99AK60D-K01",
+            "DescriptionFunctionalLoc2": "BLOWER FOR DEDUSTING UNIT",
+            "Lv": "1"
+        },
+        {
+            "item": "604",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99D040D-D01",
+            "DescriptionFunctionalLoc2": "FEEDER HOPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "605",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99DDUS04",
+            "DescriptionFunctionalLoc2": "DEDUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "606",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99F040D-F01",
+            "DescriptionFunctionalLoc2": "INLET FILTER",
+            "Lv": "1"
+        },
+        {
+            "item": "607",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99F050D-F01",
+            "DescriptionFunctionalLoc2": "DUST COLLECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "608",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99H040D-G01",
+            "DescriptionFunctionalLoc2": "GEAR FOR FEED PRODUCT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "609",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99H040D-H01",
+            "DescriptionFunctionalLoc2": "ROTARY VALVE",
+            "Lv": "1"
+        },
+        {
+            "item": "610",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99H040D-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FEED PRODUCT PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "611",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99H050D-G01",
+            "DescriptionFunctionalLoc2": "GEAR FOR FEED FINE FLUFF PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "612",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99H050D-H01",
+            "DescriptionFunctionalLoc2": "DUST DISCHARGE VALVE",
+            "Lv": "1"
+        },
+        {
+            "item": "613",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99H050D-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FEED FINE FLUFF PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "614",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99K040D-K01",
+            "DescriptionFunctionalLoc2": "WASH AIR FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "615",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99K040D-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR WASH AIR FAN PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "616",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99K050D-K01",
+            "DescriptionFunctionalLoc2": "EXHAUST AIR FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "617",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-99K050D-M01",
+            "DescriptionFunctionalLoc2": "MOTOR EXHAUST FAN PPE LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "618",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-PDI991201",
+            "DescriptionFunctionalLoc2": "Inlet filter (99F040D)",
+            "Lv": "1"
+        },
+        {
+            "item": "619",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-PDI991202",
+            "DescriptionFunctionalLoc2": "Breather filter (99AF40D)",
+            "Lv": "1"
+        },
+        {
+            "item": "620",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-PDI991203",
+            "DescriptionFunctionalLoc2": "Feeder hopper (99A040D)",
+            "Lv": "1"
+        },
+        {
+            "item": "621",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "BIC-PDI991204",
+            "DescriptionFunctionalLoc2": "Dust collector (99A040D)",
+            "Lv": "1"
+        },
+        {
+            "item": "622",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "FunctionalLoc2": "E9B-CA120-P06R-TA",
+            "DescriptionFunctionalLoc2": "SUPPLY PANEL FOR DEDUSTER UNIT LINE D",
+            "Lv": "1"
+        },
+        {
+            "item": "623",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99A050A-CB01",
+            "DescriptionFunctionalLoc2": "DEDUSTER CONTROL CABINET LINE A",
+            "Lv": "1"
+        },
+        {
+            "item": "624",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99A050A-EB01",
+            "DescriptionFunctionalLoc2": "DEDUSTER CONTROL CABINET LINE A 99A050A",
+            "Lv": "1"
+        },
+        {
+            "item": "625",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99A050A-F01",
+            "DescriptionFunctionalLoc2": "DEDUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "626",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99A050A-G01",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROTARY VALVE 99A050A",
+            "Lv": "1"
+        },
+        {
+            "item": "627",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99A050A-G02",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROTARY VALVE FINE FLUX 99A050A",
+            "Lv": "1"
+        },
+        {
+            "item": "628",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99A050A-H01",
+            "DescriptionFunctionalLoc2": "ROTARY VAVLE FOR DEDUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "629",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99A050A-H02",
+            "DescriptionFunctionalLoc2": "ROTARY VALVE FINE FLUX 99A050A",
+            "Lv": "1"
+        },
+        {
+            "item": "630",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99A050A-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROTARY VALVE 99A050A",
+            "Lv": "1"
+        },
+        {
+            "item": "631",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99A050A-M02",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROTARY VALVE FINE FLUX 99A050A",
+            "Lv": "1"
+        },
+        {
+            "item": "632",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99DDUS01",
+            "DescriptionFunctionalLoc2": "DEDUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "633",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99F020A-F01",
+            "DescriptionFunctionalLoc2": "DUST COLLECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "634",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99K020A-F01",
+            "DescriptionFunctionalLoc2": "INLET FILTER WASH AIR FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "635",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99K020A-K01",
+            "DescriptionFunctionalLoc2": "WASH AIR FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "636",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99K020A-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR WASH AIR FAN 99K020A",
+            "Lv": "1"
+        },
+        {
+            "item": "637",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99K030A-K01",
+            "DescriptionFunctionalLoc2": "EXHUAST FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "638",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "FunctionalLoc2": "BIC-99K030A-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR EXHAUST FAN 99K030A",
+            "Lv": "1"
+        },
+        {
+            "item": "639",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99A050B-CB01",
+            "DescriptionFunctionalLoc2": "DEDUSTER CONTROL CABINET LINE B",
+            "Lv": "1"
+        },
+        {
+            "item": "640",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99A050B-EB01",
+            "DescriptionFunctionalLoc2": "DEDUSTER CONTROL CABINET LINE B 99A050B",
+            "Lv": "1"
+        },
+        {
+            "item": "641",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99A050B-F01",
+            "DescriptionFunctionalLoc2": "DEDUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "642",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99A050B-G01",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROTARY VALVE 99A050B",
+            "Lv": "1"
+        },
+        {
+            "item": "643",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99A050B-G02",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROTARY VALVE FINE FLUX 99A050B",
+            "Lv": "1"
+        },
+        {
+            "item": "644",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99A050B-H01",
+            "DescriptionFunctionalLoc2": "ROTARY VAVLE FOR DE DUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "645",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99A050B-H02",
+            "DescriptionFunctionalLoc2": "ROTARY VALVE FINE FLUX 99A050B",
+            "Lv": "1"
+        },
+        {
+            "item": "646",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99A050B-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROTARY VALVE 99A050B",
+            "Lv": "1"
+        },
+        {
+            "item": "647",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99A050B-M02",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROTARY VALVE FINE FLUX 99A050B",
+            "Lv": "1"
+        },
+        {
+            "item": "648",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99DDUS02",
+            "DescriptionFunctionalLoc2": "DEDUSTER",
+            "Lv": "1"
+        },
+        {
+            "item": "649",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99F020B-F01",
+            "DescriptionFunctionalLoc2": "DUST COLLECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "650",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99K020B-K01",
+            "DescriptionFunctionalLoc2": "WASH AIR FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "651",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99K020B-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR WASH AIR FAN 99K020B",
+            "Lv": "1"
+        },
+        {
+            "item": "652",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99K030B-K01",
+            "DescriptionFunctionalLoc2": "EXHAUST FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "653",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99K030B-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR EXHAUST FAN 99K030B",
+            "Lv": "1"
+        },
+        {
+            "item": "654",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "FunctionalLoc2": "BIC-99KF020B-F01",
+            "DescriptionFunctionalLoc2": "INLET FILTER WASH AIR FAN",
+            "Lv": "1"
+        },
+        {
+            "item": "655",
+            "FunctionalLoc": "BIC-99-99H010A",
+            "FunctionalLoc2": "BIC-99H010A-D407G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FLAT BELT CONVEYOR 99H010A",
+            "Lv": "1"
+        },
+        {
+            "item": "656",
+            "FunctionalLoc": "BIC-99-99H010A",
+            "FunctionalLoc2": "BIC-99H010A-D407M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FLAT BELT CONVEYOR 99H010A",
+            "Lv": "1"
+        },
+        {
+            "item": "657",
+            "FunctionalLoc": "BIC-99-99H010A",
+            "FunctionalLoc2": "BIC-99H010A-H01",
+            "DescriptionFunctionalLoc2": "FLAT BELT CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "658",
+            "FunctionalLoc": "BIC-99-99H010B",
+            "FunctionalLoc2": "BIC-99H010B-D407G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FLAT BELT CONVEYOR 99H010B",
+            "Lv": "1"
+        },
+        {
+            "item": "659",
+            "FunctionalLoc": "BIC-99-99H010B",
+            "FunctionalLoc2": "BIC-99H010B-D407M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FLAT BELT CONVEYOR 99H010B",
+            "Lv": "1"
+        },
+        {
+            "item": "660",
+            "FunctionalLoc": "BIC-99-99H010B",
+            "FunctionalLoc2": "BIC-99H010B-H01",
+            "DescriptionFunctionalLoc2": "FLAT BELT CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "661",
+            "FunctionalLoc": "BIC-99-99H011A",
+            "FunctionalLoc2": "BIC-99H011A-D408G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR BAG FLATTENER 99H011A",
+            "Lv": "1"
+        },
+        {
+            "item": "662",
+            "FunctionalLoc": "BIC-99-99H011A",
+            "FunctionalLoc2": "BIC-99H011A-D408M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG FLATTENER 99H011A",
+            "Lv": "1"
+        },
+        {
+            "item": "663",
+            "FunctionalLoc": "BIC-99-99H011A",
+            "FunctionalLoc2": "BIC-99H011A-H01",
+            "DescriptionFunctionalLoc2": "BAG FLATTENER BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "664",
+            "FunctionalLoc": "BIC-99-99H011B",
+            "FunctionalLoc2": "BIC-99H011B-D408G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR BAG FLATTENER 99H011B",
+            "Lv": "1"
+        },
+        {
+            "item": "665",
+            "FunctionalLoc": "BIC-99-99H011B",
+            "FunctionalLoc2": "BIC-99H011B-D408M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BAG FLATTENER 99H011B",
+            "Lv": "1"
+        },
+        {
+            "item": "666",
+            "FunctionalLoc": "BIC-99-99H011B",
+            "FunctionalLoc2": "BIC-99H011B-H01",
+            "DescriptionFunctionalLoc2": "BAG FLATTENER BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "667",
+            "FunctionalLoc": "BIC-99-99H012A",
+            "FunctionalLoc2": "BIC-99H012A-D406G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CURVE CONVEYOR 99H012A",
+            "Lv": "1"
+        },
+        {
+            "item": "668",
+            "FunctionalLoc": "BIC-99-99H012A",
+            "FunctionalLoc2": "BIC-99H012A-D406M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CURVE CONVEYOR 99H012A",
+            "Lv": "1"
+        },
+        {
+            "item": "669",
+            "FunctionalLoc": "BIC-99-99H012A",
+            "FunctionalLoc2": "BIC-99H012A-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT (CURVE)",
+            "Lv": "1"
+        },
+        {
+            "item": "670",
+            "FunctionalLoc": "BIC-99-99H012B",
+            "FunctionalLoc2": "BIC-99H012B-D406G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CURVE CONVEYOR 99H012B",
+            "Lv": "1"
+        },
+        {
+            "item": "671",
+            "FunctionalLoc": "BIC-99-99H012B",
+            "FunctionalLoc2": "BIC-99H012B-D406M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CURVE CONVEYOR 99H012B",
+            "Lv": "1"
+        },
+        {
+            "item": "672",
+            "FunctionalLoc": "BIC-99-99H012B",
+            "FunctionalLoc2": "BIC-99H012B-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT (CURVE)",
+            "Lv": "1"
+        },
+        {
+            "item": "673",
+            "FunctionalLoc": "BIC-99-99H013B",
+            "FunctionalLoc2": "BIC-99H013B-D405G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FLAT BELT CONVEYOR 99H013B",
+            "Lv": "1"
+        },
+        {
+            "item": "674",
+            "FunctionalLoc": "BIC-99-99H013B",
+            "FunctionalLoc2": "BIC-99H013B-D405M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FLAT BELT CONVEYOR 99H013B",
+            "Lv": "1"
+        },
+        {
+            "item": "675",
+            "FunctionalLoc": "BIC-99-99H013B",
+            "FunctionalLoc2": "BIC-99H013B-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "676",
+            "FunctionalLoc": "BIC-99-99H015A",
+            "FunctionalLoc2": "BIC-99H015A-D401G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CURVE CONVEYOR 99H015A",
+            "Lv": "1"
+        },
+        {
+            "item": "677",
+            "FunctionalLoc": "BIC-99-99H015A",
+            "FunctionalLoc2": "BIC-99H015A-D401M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CURVE CONVEYOR 99H015A",
+            "Lv": "1"
+        },
+        {
+            "item": "678",
+            "FunctionalLoc": "BIC-99-99H015A",
+            "FunctionalLoc2": "BIC-99H015A-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT (CURVE)",
+            "Lv": "1"
+        },
+        {
+            "item": "679",
+            "FunctionalLoc": "BIC-99-99H015B",
+            "FunctionalLoc2": "BIC-99H015B-D401G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR CURVE CONVEYOR 99H015B",
+            "Lv": "1"
+        },
+        {
+            "item": "680",
+            "FunctionalLoc": "BIC-99-99H015B",
+            "FunctionalLoc2": "BIC-99H015B-D401M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR CURVE CONVEYOR 99H015B",
+            "Lv": "1"
+        },
+        {
+            "item": "681",
+            "FunctionalLoc": "BIC-99-99H015B",
+            "FunctionalLoc2": "BIC-99H015B-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT (CURVE)",
+            "Lv": "1"
+        },
+        {
+            "item": "682",
+            "FunctionalLoc": "BIC-99-99H016A",
+            "FunctionalLoc2": "BIC-99H016A-D400G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TROUGHED BELT CONVEYOR 99H016A",
+            "Lv": "1"
+        },
+        {
+            "item": "683",
+            "FunctionalLoc": "BIC-99-99H016A",
+            "FunctionalLoc2": "BIC-99H016A-D400M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TROUGHED BELT CONVEYOR 99H016A",
+            "Lv": "1"
+        },
+        {
+            "item": "684",
+            "FunctionalLoc": "BIC-99-99H016A",
+            "FunctionalLoc2": "BIC-99H016A-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT (INCLINED)",
+            "Lv": "1"
+        },
+        {
+            "item": "685",
+            "FunctionalLoc": "BIC-99-99H016B",
+            "FunctionalLoc2": "BIC-99H016B-D400G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TROUGHED BELT CONVEYOR 99H016B",
+            "Lv": "1"
+        },
+        {
+            "item": "686",
+            "FunctionalLoc": "BIC-99-99H016B",
+            "FunctionalLoc2": "BIC-99H016B-D400M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TROUGHED BELT CONVEYOR 99H016B",
+            "Lv": "1"
+        },
+        {
+            "item": "687",
+            "FunctionalLoc": "BIC-99-99H016B",
+            "FunctionalLoc2": "BIC-99H016B-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT (INCLINED)",
+            "Lv": "1"
+        },
+        {
+            "item": "688",
+            "FunctionalLoc": "BIC-99-99H017A",
+            "FunctionalLoc2": "BIC-99H017A-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR (INFEED)",
+            "Lv": "1"
+        },
+        {
+            "item": "689",
+            "FunctionalLoc": "BIC-99-99H017B",
+            "FunctionalLoc2": "BIC-99H017B-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR (INFEED)",
+            "Lv": "1"
+        },
+        {
+            "item": "690",
+            "FunctionalLoc": "BIC-99-99H018A",
+            "FunctionalLoc2": "BIC-99H018A-D00G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TIMING BELT 99H018A",
+            "Lv": "1"
+        },
+        {
+            "item": "691",
+            "FunctionalLoc": "BIC-99-99H018A",
+            "FunctionalLoc2": "BIC-99H018A-D00M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TIMING BELT 99H018A",
+            "Lv": "1"
+        },
+        {
+            "item": "692",
+            "FunctionalLoc": "BIC-99-99H018A",
+            "FunctionalLoc2": "BIC-99H018A-D01M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR VIBRATOR 99H018A",
+            "Lv": "1"
+        },
+        {
+            "item": "693",
+            "FunctionalLoc": "BIC-99-99H018A",
+            "FunctionalLoc2": "BIC-99H018A-D01M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR VIBRATOR 99H018A",
+            "Lv": "1"
+        },
+        {
+            "item": "694",
+            "FunctionalLoc": "BIC-99-99H018A",
+            "FunctionalLoc2": "BIC-99H018A-H01",
+            "DescriptionFunctionalLoc2": "PRESS BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "695",
+            "FunctionalLoc": "BIC-99-99H018B",
+            "FunctionalLoc2": "BIC-99H018B-D00G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR TIMING BELT 99H018B",
+            "Lv": "1"
+        },
+        {
+            "item": "696",
+            "FunctionalLoc": "BIC-99-99H018B",
+            "FunctionalLoc2": "BIC-99H018B-D00M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TIMING BELT 99H018B",
+            "Lv": "1"
+        },
+        {
+            "item": "697",
+            "FunctionalLoc": "BIC-99-99H018B",
+            "FunctionalLoc2": "BIC-99H018B-D01M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR VIBRATOR 99H018B",
+            "Lv": "1"
+        },
+        {
+            "item": "698",
+            "FunctionalLoc": "BIC-99-99H018B",
+            "FunctionalLoc2": "BIC-99H018B-D01M2",
+            "DescriptionFunctionalLoc2": "MOTOR FOR VIBRATOR 99H018B",
+            "Lv": "1"
+        },
+        {
+            "item": "699",
+            "FunctionalLoc": "BIC-99-99H018B",
+            "FunctionalLoc2": "BIC-99H018B-H01",
+            "DescriptionFunctionalLoc2": "PRESS BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "700",
+            "FunctionalLoc": "BIC-99-99H019A",
+            "FunctionalLoc2": "BIC-99H019A-D100G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET ROL. COVY. BEHIND HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "701",
+            "FunctionalLoc": "BIC-99-99H019A",
+            "FunctionalLoc2": "BIC-99H019A-D100M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET ROL. COVY. BEHIND HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "702",
+            "FunctionalLoc": "BIC-99-99H019A",
+            "FunctionalLoc2": "BIC-99H019A-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "703",
+            "FunctionalLoc": "BIC-99-99H019B",
+            "FunctionalLoc2": "BIC-99H019B-D100G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET ROL. COVY. BEHIND HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "704",
+            "FunctionalLoc": "BIC-99-99H019B",
+            "FunctionalLoc2": "BIC-99H019B-D100M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET ROL. COVY. BEHIND HOIST",
+            "Lv": "1"
+        },
+        {
+            "item": "705",
+            "FunctionalLoc": "BIC-99-99H019B",
+            "FunctionalLoc2": "BIC-99H019B-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "706",
+            "FunctionalLoc": "BIC-99-99H020A",
+            "FunctionalLoc2": "BIC-99H020A-D800G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET COVY. AT WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "707",
+            "FunctionalLoc": "BIC-99-99H020A",
+            "FunctionalLoc2": "BIC-99H020A-D800M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET COVY. AT WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "708",
+            "FunctionalLoc": "BIC-99-99H020A",
+            "FunctionalLoc2": "BIC-99H020A-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "709",
+            "FunctionalLoc": "BIC-99-99H020B",
+            "FunctionalLoc2": "BIC-99H020B-D800G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET COVY. AT WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "710",
+            "FunctionalLoc": "BIC-99-99H020B",
+            "FunctionalLoc2": "BIC-99H020B-D800M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET COVY. AT WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "711",
+            "FunctionalLoc": "BIC-99-99H020B",
+            "FunctionalLoc2": "BIC-99H020B-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "712",
+            "FunctionalLoc": "BIC-99-99H021A",
+            "FunctionalLoc2": "BIC-99H021A-D801G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET COVY. AFTER WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "713",
+            "FunctionalLoc": "BIC-99-99H021A",
+            "FunctionalLoc2": "BIC-99H021A-D801M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET COVY. AFTER WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "714",
+            "FunctionalLoc": "BIC-99-99H021A",
+            "FunctionalLoc2": "BIC-99H021A-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "715",
+            "FunctionalLoc": "BIC-99-99H021B",
+            "FunctionalLoc2": "BIC-99H021B-D801G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET COVY. AFTER WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "716",
+            "FunctionalLoc": "BIC-99-99H021B",
+            "FunctionalLoc2": "BIC-99H021B-D801M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET COVY. AFTER WRAPPER",
+            "Lv": "1"
+        },
+        {
+            "item": "717",
+            "FunctionalLoc": "BIC-99-99H021B",
+            "FunctionalLoc2": "BIC-99H021B-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "718",
+            "FunctionalLoc": "BIC-99-99H022A",
+            "FunctionalLoc2": "BIC-99H022A-D802G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET ROLLER CONVEYOR 2",
+            "Lv": "1"
+        },
+        {
+            "item": "719",
+            "FunctionalLoc": "BIC-99-99H022A",
+            "FunctionalLoc2": "BIC-99H022A-D802M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET ROLLER CONVEYOR 2",
+            "Lv": "1"
+        },
+        {
+            "item": "720",
+            "FunctionalLoc": "BIC-99-99H022A",
+            "FunctionalLoc2": "BIC-99H022A-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "721",
+            "FunctionalLoc": "BIC-99-99H022B",
+            "FunctionalLoc2": "BIC-99H022B-D802G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET ROLLER CONVEYOR 2",
+            "Lv": "1"
+        },
+        {
+            "item": "722",
+            "FunctionalLoc": "BIC-99-99H022B",
+            "FunctionalLoc2": "BIC-99H022B-D802M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET ROLLER CONVEYOR 2",
+            "Lv": "1"
+        },
+        {
+            "item": "723",
+            "FunctionalLoc": "BIC-99-99H022B",
+            "FunctionalLoc2": "BIC-99H022B-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "724",
+            "FunctionalLoc": "BIC-99-99H023A",
+            "FunctionalLoc2": "BIC-99H023A-D803G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET ROLLER CONVEYOR 3",
+            "Lv": "1"
+        },
+        {
+            "item": "725",
+            "FunctionalLoc": "BIC-99-99H023A",
+            "FunctionalLoc2": "BIC-99H023A-D803M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET ROLLER CONVEYOR 3",
+            "Lv": "1"
+        },
+        {
+            "item": "726",
+            "FunctionalLoc": "BIC-99-99H023A",
+            "FunctionalLoc2": "BIC-99H023A-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "727",
+            "FunctionalLoc": "BIC-99-99H023B",
+            "FunctionalLoc2": "BIC-99H023B-D803G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET ROLLER CONVEYOR 3",
+            "Lv": "1"
+        },
+        {
+            "item": "728",
+            "FunctionalLoc": "BIC-99-99H023B",
+            "FunctionalLoc2": "BIC-99H023B-D803M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET ROLLER CONVEYOR 3",
+            "Lv": "1"
+        },
+        {
+            "item": "729",
+            "FunctionalLoc": "BIC-99-99H023B",
+            "FunctionalLoc2": "BIC-99H023B-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "730",
+            "FunctionalLoc": "BIC-99-99H024A",
+            "FunctionalLoc2": "BIC-99H024A-D804G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET ROLLER CONVEYOR 4",
+            "Lv": "1"
+        },
+        {
+            "item": "731",
+            "FunctionalLoc": "BIC-99-99H024A",
+            "FunctionalLoc2": "BIC-99H024A-D804M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET ROLLER CONVEYOR 4",
+            "Lv": "1"
+        },
+        {
+            "item": "732",
+            "FunctionalLoc": "BIC-99-99H024A",
+            "FunctionalLoc2": "BIC-99H024A-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "733",
+            "FunctionalLoc": "BIC-99-99H024B",
+            "FunctionalLoc2": "BIC-99H024B-D804G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR FULL PALLET ROLLER CONVEYOR 4",
+            "Lv": "1"
+        },
+        {
+            "item": "734",
+            "FunctionalLoc": "BIC-99-99H024B",
+            "FunctionalLoc2": "BIC-99H024B-D804M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR FULL PALLET ROLLER CONVEYOR 4",
+            "Lv": "1"
+        },
+        {
+            "item": "735",
+            "FunctionalLoc": "BIC-99-99H024B",
+            "FunctionalLoc2": "BIC-99H024B-H01",
+            "DescriptionFunctionalLoc2": "ROLLER CONVEYOR",
+            "Lv": "1"
+        },
+        {
+            "item": "736",
+            "FunctionalLoc": "BIC-99-99S010A",
+            "FunctionalLoc2": "BIC-99H014A-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "737",
+            "FunctionalLoc": "BIC-99-99S010A",
+            "FunctionalLoc2": "BIC-99H014A-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TRANSPORT BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "738",
+            "FunctionalLoc": "BIC-99-99S010A",
+            "FunctionalLoc2": "BIC-99METL01",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "739",
+            "FunctionalLoc": "BIC-99-99S010A",
+            "FunctionalLoc2": "BIC-99S010A-D404G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR METAL DETECTOR BELT 99S010A",
+            "Lv": "1"
+        },
+        {
+            "item": "740",
+            "FunctionalLoc": "BIC-99-99S010A",
+            "FunctionalLoc2": "BIC-99S010A-D404M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR METAL DETECTOR BELT 99S010A",
+            "Lv": "1"
+        },
+        {
+            "item": "741",
+            "FunctionalLoc": "BIC-99-99S010A",
+            "FunctionalLoc2": "BIC-99S010A-S01",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "742",
+            "FunctionalLoc": "BIC-99-99S010B",
+            "FunctionalLoc2": "BIC-99H014B-H01",
+            "DescriptionFunctionalLoc2": "TRANSPORT BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "743",
+            "FunctionalLoc": "BIC-99-99S010B",
+            "FunctionalLoc2": "BIC-99H014B-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR TRANSPORT BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "744",
+            "FunctionalLoc": "BIC-99-99S010B",
+            "FunctionalLoc2": "BIC-99METL02",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "745",
+            "FunctionalLoc": "BIC-99-99S010B",
+            "FunctionalLoc2": "BIC-99S010B-D404G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR METAL DETECTOR BELT 99S010B",
+            "Lv": "1"
+        },
+        {
+            "item": "746",
+            "FunctionalLoc": "BIC-99-99S010B",
+            "FunctionalLoc2": "BIC-99S010B-D404M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR METAL DETECTOR BELT 99S010B",
+            "Lv": "1"
+        },
+        {
+            "item": "747",
+            "FunctionalLoc": "BIC-99-99S010B",
+            "FunctionalLoc2": "BIC-99S010B-S01",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "748",
+            "FunctionalLoc": "BIC-99-99S010C",
+            "FunctionalLoc2": "BIC-99METL04",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "749",
+            "FunctionalLoc": "BIC-99-99S010C",
+            "FunctionalLoc2": "BIC-99S010C-S01",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "750",
+            "FunctionalLoc": "BIC-99-99S010C",
+            "FunctionalLoc2": "BIC-99S011C-S01",
+            "DescriptionFunctionalLoc2": "PUSHER",
+            "Lv": "1"
+        },
+        {
+            "item": "751",
+            "FunctionalLoc": "BIC-99-99S010C",
+            "FunctionalLoc2": "BIC-99S012C-S01",
+            "DescriptionFunctionalLoc2": "METAL SEPARATOR",
+            "Lv": "1"
+        },
+        {
+            "item": "752",
+            "FunctionalLoc": "BIC-99-99S010D",
+            "FunctionalLoc2": "BIC-99METL05",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "753",
+            "FunctionalLoc": "BIC-99-99S010D",
+            "FunctionalLoc2": "BIC-99S010D-S01",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR",
+            "Lv": "1"
+        },
+        {
+            "item": "754",
+            "FunctionalLoc": "BIC-99-99S010D",
+            "FunctionalLoc2": "BIC-99S011D-D01",
+            "DescriptionFunctionalLoc2": "PUSHER",
+            "Lv": "1"
+        },
+        {
+            "item": "755",
+            "FunctionalLoc": "BIC-99-99S010D",
+            "FunctionalLoc2": "BIC-99S012D-D01",
+            "DescriptionFunctionalLoc2": "METAL SEPARATOR",
+            "Lv": "1"
+        },
+        {
+            "item": "756",
+            "FunctionalLoc": "BIC-99-99S011A",
+            "FunctionalLoc2": "BIC-99S011A-D402G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR EJECTION BELT 99S011A",
+            "Lv": "1"
+        },
+        {
+            "item": "757",
+            "FunctionalLoc": "BIC-99-99S011A",
+            "FunctionalLoc2": "BIC-99S011A-D402M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR EJECTION BELT 99S011A",
+            "Lv": "1"
+        },
+        {
+            "item": "758",
+            "FunctionalLoc": "BIC-99-99S011A",
+            "FunctionalLoc2": "BIC-99S011A-S01",
+            "DescriptionFunctionalLoc2": "PUSHER WITH TRANSFE BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "759",
+            "FunctionalLoc": "BIC-99-99S011B",
+            "FunctionalLoc2": "BIC-99S011B-D402G1",
+            "DescriptionFunctionalLoc2": "GEAR FOR EJECTION BELT 99S011B",
+            "Lv": "1"
+        },
+        {
+            "item": "760",
+            "FunctionalLoc": "BIC-99-99S011B",
+            "FunctionalLoc2": "BIC-99S011B-D402M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR EJECTION BELT 99S011B",
+            "Lv": "1"
+        },
+        {
+            "item": "761",
+            "FunctionalLoc": "BIC-99-99S011B",
+            "FunctionalLoc2": "BIC-99S011B-S01",
+            "DescriptionFunctionalLoc2": "PUSHER WITH TRANSFE BELT",
+            "Lv": "1"
+        },
+        {
+            "item": "762",
+            "FunctionalLoc": "BIC-99-99S050",
+            "FunctionalLoc2": "BIC-99METL03",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR.",
+            "Lv": "1"
+        },
+        {
+            "item": "763",
+            "FunctionalLoc": "BIC-99-99S050",
+            "FunctionalLoc2": "BIC-99S0050-S01",
+            "DescriptionFunctionalLoc2": "METAL DETECTOR JUMBO BAG.BIC(PP3)",
+            "Lv": "1"
+        },
+        {
+            "item": "764",
+            "FunctionalLoc": "BIC-99-99W011A",
+            "FunctionalLoc2": "BIC-99W011A-D403M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ONLINE WEIGHER BELT 99W011A",
+            "Lv": "1"
+        },
+        {
+            "item": "765",
+            "FunctionalLoc": "BIC-99-99W011A",
+            "FunctionalLoc2": "BIC-99W011A-W01",
+            "DescriptionFunctionalLoc2": "ONLINE-WEIGHING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "766",
+            "FunctionalLoc": "BIC-99-99W011A",
+            "FunctionalLoc2": "BIC-99WO01",
+            "DescriptionFunctionalLoc2": "WEIGHT CHECKER",
+            "Lv": "1"
+        },
+        {
+            "item": "767",
+            "FunctionalLoc": "BIC-99-99W011B",
+            "FunctionalLoc2": "BIC-99W011B-D403M1",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ONLINE WEIGHER BELT 99W011B",
+            "Lv": "1"
+        },
+        {
+            "item": "768",
+            "FunctionalLoc": "BIC-99-99W011B",
+            "FunctionalLoc2": "BIC-99W011B-W01",
+            "DescriptionFunctionalLoc2": "WEIGHING MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "769",
+            "FunctionalLoc": "BIC-99-99W011B",
+            "FunctionalLoc2": "BIC-99WO02",
+            "DescriptionFunctionalLoc2": "WEIGHT CHECKER",
+            "Lv": "1"
+        },
+        {
+            "item": "770",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-CB01",
+            "DescriptionFunctionalLoc2": "JUMBO BAGGING CONTROL CABINET LINE A",
+            "Lv": "1"
+        },
+        {
+            "item": "771",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99JBAG01",
+            "DescriptionFunctionalLoc2": "JUMBO BAGGING MACHINE.",
+            "Lv": "1"
+        },
+        {
+            "item": "772",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-EB01",
+            "DescriptionFunctionalLoc2": "JUMBO BAGGING CONTROL CABINET LINE A",
+            "Lv": "1"
+        },
+        {
+            "item": "773",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-G01",
+            "DescriptionFunctionalLoc2": "GEAR FOR PALLET FORK 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "774",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-G02",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROLLER CONVEYOR 1 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "775",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-G03",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROLLER CONVEYOR 2 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "776",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-G04",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROLLER CONVEYOR 3 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "777",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-G05",
+            "DescriptionFunctionalLoc2": "GEAR FOR ROLLER CONVEYOR HOISTING TABLE",
+            "Lv": "1"
+        },
+        {
+            "item": "778",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-K06",
+            "DescriptionFunctionalLoc2": "BLOWER FINE FLUX 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "779",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-M01",
+            "DescriptionFunctionalLoc2": "MOTOR FOR PALLET FORK 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "780",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-M02",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROLLER CONVEYOR 1 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "781",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-M03",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROLLER CONVEYOR 2 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "782",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-M04",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROLLER CONVEYOR 3 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "783",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-M05",
+            "DescriptionFunctionalLoc2": "MOTOR FOR ROLLER CONVEYOR HOISTING TABLE",
+            "Lv": "1"
+        },
+        {
+            "item": "784",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-M06",
+            "DescriptionFunctionalLoc2": "MOTOR FOR BLOWER FINE FLUX 99W050A",
+            "Lv": "1"
+        },
+        {
+            "item": "785",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99W050A-W01",
+            "DescriptionFunctionalLoc2": "JUMBO MACHINE",
+            "Lv": "1"
+        },
+        {
+            "item": "786",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "FunctionalLoc2": "BIC-99WS05",
+            "DescriptionFunctionalLoc2": "WEIGHT SCALE",
+            "Lv": "1"
+        },
+        {
+            "item": "787",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E028",
+            "DescriptionFunctionalLoc2": "AIR CONTROL BAGGING LINE C-L PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "788",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E029",
+            "DescriptionFunctionalLoc2": "AIR CONTROL BAGGING LINE C-R PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "789",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E030",
+            "DescriptionFunctionalLoc2": "AIR CONTROL WEIGHT ON LINE C PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "790",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E031",
+            "DescriptionFunctionalLoc2": "AIR CONTROL PALLETIZER LINE C PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "791",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E032",
+            "DescriptionFunctionalLoc2": "AIR CONTROL STRETCH HOOD LINE C PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "792",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E033",
+            "DescriptionFunctionalLoc2": "AIR CONTROL BAGGING LINE C PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "793",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E034",
+            "DescriptionFunctionalLoc2": "AIR CONTROL BAGGING LINE D-L PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "794",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E035",
+            "DescriptionFunctionalLoc2": "AIR CONTROL BAGGING LINE D-R PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "795",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E036",
+            "DescriptionFunctionalLoc2": "AIR CONTROL WEIGHT ON LINE D PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "796",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E037",
+            "DescriptionFunctionalLoc2": "AIR CONTROL PALLETIZER LINE D PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "797",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E038",
+            "DescriptionFunctionalLoc2": "AIR CONTROL STRETCH HOOD LINE D PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "798",
+            "FunctionalLoc": "BIC-99-AIR",
+            "FunctionalLoc2": "BIC-E039",
+            "DescriptionFunctionalLoc2": "AIR CONTROL BAGGING LINE D PPE",
+            "Lv": "1"
+        },
+        {
+            "item": "799",
+            "FunctionalLoc": "BIC-99-GROUND",
+            "FunctionalLoc2": "BIC-G-99-1",
+            "DescriptionFunctionalLoc2": "GROUND BOX BIC-G-99/1 +0.00M",
+            "Lv": "1"
+        },
+        {
+            "item": "800",
+            "FunctionalLoc": "BIC-99-GROUND",
+            "FunctionalLoc2": "BIC-G-99-2",
+            "DescriptionFunctionalLoc2": "GROUND BOX BIC-G-99/2 +0.00M",
+            "Lv": "1"
+        },
+        {
+            "item": "801",
+            "FunctionalLoc": "BIC-99-GROUND",
+            "FunctionalLoc2": "BIC-G-99-3",
+            "DescriptionFunctionalLoc2": "GROUND BOX BIC-G-99/3 +0.00M",
+            "Lv": "1"
+        }
+    ]
+}

@@ -1,0 +1,748 @@
+{
+    "bc99": [
+        {
+            "item": "1",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-0393W03",
+            "Description": "DIGITAL WEIGHT BIC(PP3)",
+            "lv": "0"
+        },
+        {
+            "item": "2",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-0393W04",
+            "Description": "DIGITAL WEIGHT BIC(PP3)",
+            "lv": "0"
+        },
+        {
+            "item": "3",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-0393W05",
+            "Description": "DIGITAL WEIGHT BIC(PP3)",
+            "lv": "0"
+        },
+        {
+            "item": "4",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-0393W07",
+            "Description": "DIGITAL WEIGHT BIC(PP3)",
+            "lv": "0"
+        },
+        {
+            "item": "5",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-0393W08",
+            "Description": "DIGITAL WEIGHT",
+            "lv": "0"
+        },
+        {
+            "item": "6",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-0393W09",
+            "Description": "DIGITAL WEIGHT",
+            "lv": "0"
+        },
+        {
+            "item": "7",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99A010A",
+            "Description": "LC BAGGING MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "8",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99A010B",
+            "Description": "LC BAGGING MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "9",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99A010C",
+            "Description": "BAGGING MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "10",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99A010D",
+            "Description": "BAGGING MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "11",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99A020A",
+            "Description": "LC PALLETIZER",
+            "lv": "0"
+        },
+        {
+            "item": "12",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99A020B",
+            "Description": "LC PALLETIZER",
+            "lv": "0"
+        },
+        {
+            "item": "13",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99A020C",
+            "Description": "PALLETIZER",
+            "lv": "0"
+        },
+        {
+            "item": "14",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99A020D",
+            "Description": "PALLETIZER",
+            "lv": "0"
+        },
+        {
+            "item": "15",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99A030A",
+            "Description": "WRAPPING MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "16",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99A030B",
+            "Description": "LC STRETCH FILM WRAPPER",
+            "lv": "0"
+        },
+        {
+            "item": "17",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99A030C",
+            "Description": "STRETCH FILM WRAPPER PPE LINE C",
+            "lv": "0"
+        },
+        {
+            "item": "18",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99A030D",
+            "Description": "STRETCH FILM WRAPPER PPE LINE D",
+            "lv": "0"
+        },
+        {
+            "item": "19",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99A040",
+            "Description": "CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "20",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99A040C",
+            "Description": "UP-DOWN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "21",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99A040D",
+            "Description": "UP-DOWN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "22",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99A050A",
+            "Description": "DE DUSTER",
+            "lv": "0"
+        },
+        {
+            "item": "23",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99A050B",
+            "Description": "DE DUSTER",
+            "lv": "0"
+        },
+        {
+            "item": "24",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99F020A",
+            "Description": "DUST COLLECTOR",
+            "lv": "0"
+        },
+        {
+            "item": "25",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99F020B",
+            "Description": "DUST COLLECTOR",
+            "lv": "0"
+        },
+        {
+            "item": "26",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H010A",
+            "Description": "LC TRANSPORT BELT (INCLINED)",
+            "lv": "0"
+        },
+        {
+            "item": "27",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H010B",
+            "Description": "LC TRANSPORT BELT (INCLINED)",
+            "lv": "0"
+        },
+        {
+            "item": "28",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H011A",
+            "Description": "LC PRESS BELT",
+            "lv": "0"
+        },
+        {
+            "item": "29",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H011B",
+            "Description": "LC PRESS BELT",
+            "lv": "0"
+        },
+        {
+            "item": "30",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H012A",
+            "Description": "LC TRANSPORT BELT (CURVE)",
+            "lv": "0"
+        },
+        {
+            "item": "31",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H012B",
+            "Description": "LC TRANSPORT BELT (CURVE)",
+            "lv": "0"
+        },
+        {
+            "item": "32",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H013B",
+            "Description": "LC TRANSPORT BELT",
+            "lv": "0"
+        },
+        {
+            "item": "33",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H014A",
+            "Description": "LC TRANSPORT BELT",
+            "lv": "0"
+        },
+        {
+            "item": "34",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H014B",
+            "Description": "LC TRANSPORT BELT",
+            "lv": "0"
+        },
+        {
+            "item": "35",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H015A",
+            "Description": "LC TRANSPORT BELT (CURVE)",
+            "lv": "0"
+        },
+        {
+            "item": "36",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H015B",
+            "Description": "LC TRANSPORT BELT (CURVE)",
+            "lv": "0"
+        },
+        {
+            "item": "37",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H016A",
+            "Description": "LC TRANSPORT BELT (INCLINED)",
+            "lv": "0"
+        },
+        {
+            "item": "38",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H016B",
+            "Description": "LC TRANSPORT BELT (INCLINED)",
+            "lv": "0"
+        },
+        {
+            "item": "39",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H017A",
+            "Description": "LC ROLLER CONVEYOR (INFEED)",
+            "lv": "0"
+        },
+        {
+            "item": "40",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H017B",
+            "Description": "LC ROLLER CONVEYOR (INFEED)",
+            "lv": "0"
+        },
+        {
+            "item": "41",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H018A",
+            "Description": "LC PRESS BELT",
+            "lv": "0"
+        },
+        {
+            "item": "42",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H018B",
+            "Description": "LC PRESS BELT",
+            "lv": "0"
+        },
+        {
+            "item": "43",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H019A",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "44",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H019B",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "45",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H020A",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "46",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H020B",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "47",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H021A",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "48",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H021B",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "49",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H022A",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "50",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H022B",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "51",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H023A",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "52",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H023B",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "53",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H024A",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "54",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99H024B",
+            "Description": "LC ROLLER CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "55",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99K020A",
+            "Description": "WASH AIR FILTER",
+            "lv": "0"
+        },
+        {
+            "item": "56",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99K020B",
+            "Description": "WASH AIR FILTER",
+            "lv": "0"
+        },
+        {
+            "item": "57",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99K030A",
+            "Description": "EXHAUST FAN",
+            "lv": "0"
+        },
+        {
+            "item": "58",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99K030B",
+            "Description": "EXHAUST FAN",
+            "lv": "0"
+        },
+        {
+            "item": "59",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99KF20A",
+            "Description": "AIR INLET FILTER",
+            "lv": "0"
+        },
+        {
+            "item": "60",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99KF20B",
+            "Description": "AIR INLET FILTER",
+            "lv": "0"
+        },
+        {
+            "item": "61",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99S010A",
+            "Description": "LC METAL DETECTOR",
+            "lv": "0"
+        },
+        {
+            "item": "62",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99S010B",
+            "Description": "LC METAL DETECTOR",
+            "lv": "0"
+        },
+        {
+            "item": "63",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99S010C",
+            "Description": "METAL DETECTOR  PPE LINE C",
+            "lv": "0"
+        },
+        {
+            "item": "64",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PPE",
+            "FunctionalLoc": "BIC-99-99S010D",
+            "Description": "METAL DETECTOR  PPE LINE D",
+            "lv": "0"
+        },
+        {
+            "item": "65",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99S011A",
+            "Description": "LC PUSHER WITH TRANSFE BELT",
+            "lv": "0"
+        },
+        {
+            "item": "66",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99S011B",
+            "Description": "LC PUSHER WITH TRANSFE BELT",
+            "lv": "0"
+        },
+        {
+            "item": "67",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99S050",
+            "Description": "METAL DETECTOR",
+            "lv": "0"
+        },
+        {
+            "item": "68",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T101",
+            "Description": "LC UP-DOWN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "69",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T102",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "70",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T103",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "71",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T104",
+            "Description": "LC UP-DOWN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "72",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T105",
+            "Description": "LC UP-DOWN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "73",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T106",
+            "Description": "LC EMERGENCY CHAIN CONVEYOR.",
+            "lv": "0"
+        },
+        {
+            "item": "74",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T107",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "75",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T108",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "76",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T109",
+            "Description": "LC TURNTABLE CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "77",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T110",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "78",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T111",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "79",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T112",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "80",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T113",
+            "Description": "LC LIFTER",
+            "lv": "0"
+        },
+        {
+            "item": "81",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T114",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "82",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T115",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "83",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T116",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "84",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T117",
+            "Description": "LC CHAIN CONVEYOR",
+            "lv": "0"
+        },
+        {
+            "item": "85",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99T118",
+            "Description": "PUMP HYDRAULIC",
+            "lv": "0"
+        },
+        {
+            "item": "86",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99W010A",
+            "Description": "BAGGING MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "87",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99W010B",
+            "Description": "BAGGING MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "88",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99W011A",
+            "Description": "LC ONLINE-WEIGHING MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "89",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99W011B",
+            "Description": "LC WEIGHING MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "90",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-99W050A",
+            "Description": "JUMBO MACHINE",
+            "lv": "0"
+        },
+        {
+            "item": "91",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-AIR",
+            "Description": "AIR CONTROL BIC",
+            "lv": "0"
+        },
+        {
+            "item": "92",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99-GROUND",
+            "Description": "GROUND BIC",
+            "lv": "0"
+        },
+        {
+            "item": "93",
+            "Sloc": "BIC-99",
+            "Unit": "BAGGING PP3",
+            "FunctionalLoc": "BIC-99WD01",
+            "Description": "DIGITAL WEIGHT BIC(PP3)",
+            "lv": "0"
+        }
+    ]
+}
